@@ -39,7 +39,7 @@
   "devDependencies": {
     "@ai-sdk/gateway": "2.0.35",
     "@ai-sdk/provider": "2.0.0",
-    "@ai-sdk/provider-utils": "3.0.20",
+    "@ai-sdk/provider-utils": "5.0.56",
     "@internal/lint": "workspace:*",
     "@internal/types-builder": "workspace:*",
     "@microsoft/api-extractor": "^7.57.7",
